@@ -8,18 +8,6 @@
           "url": "https://github.com/karthik-padav/publicJson/blob/main/howdyinternet.json",
           "code": "COLOR_PALETTES",
           "target": "_black"
-        },
-        {
-          "title": "PDF Converter",
-          "url": "",
-          "code": "PDF_CONVERTER",
-          "target": "_black"
-        },
-        {
-          "title": "Image Compressor",
-          "url": "",
-          "code": "IMAGE_COMPRESSOR",
-          "target": "_black"
         }
       ]
     }
