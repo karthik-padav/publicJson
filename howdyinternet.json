@@ -5,7 +5,7 @@
       "subMenu": [
         {
           "title": "Color Palettes",
-          "url": "https://github.com/karthik-padav/publicJson/blob/main/howdyinternet.json",
+          "url": "https://color-combinations.howdyinternet.com",
           "code": "COLOR_PALETTES",
           "target": "_black"
         }
